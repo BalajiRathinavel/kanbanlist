@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/kanbanlist/static/js/main.de971156.chunk.js",
+    "main.js.map": "/kanbanlist/static/js/main.de971156.chunk.js.map",
+    "runtime-main.js": "/kanbanlist/static/js/runtime-main.a2fd8514.js",
+    "runtime-main.js.map": "/kanbanlist/static/js/runtime-main.a2fd8514.js.map",
+    "static/js/2.3729e6f0.chunk.js": "/kanbanlist/static/js/2.3729e6f0.chunk.js",
+    "static/js/2.3729e6f0.chunk.js.map": "/kanbanlist/static/js/2.3729e6f0.chunk.js.map",
+    "index.html": "/kanbanlist/index.html",
+    "precache-manifest.bbc31573c151a7a21e164c1a08d246d7.js": "/kanbanlist/precache-manifest.bbc31573c151a7a21e164c1a08d246d7.js",
+    "service-worker.js": "/kanbanlist/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2fd8514.js",
+    "static/js/2.3729e6f0.chunk.js",
+    "static/js/main.de971156.chunk.js"
+  ]
+}
